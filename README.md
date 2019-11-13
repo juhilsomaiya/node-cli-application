@@ -12,3 +12,5 @@ Please make sure you have installed the required packages or can install before 
 
   - chmod +x ./index.js
   - ./index.js
+
+Don't forget to Star and Fork the repo. :)
